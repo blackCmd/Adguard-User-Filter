@@ -1,0 +1,8 @@
+||talkchannel-api.kakao.com^
+||more-api.kakao.com^
+||pf-api.kakao.com^
+||movie-api.kakao.com^
+||th-p.talk.kakao.co.kr^
+||img1.daumcdn.net^
+@@||th-p.talk.kakao.co.kr^
+@@||display.ad.daum.net
